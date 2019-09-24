@@ -1,3 +1,0 @@
-<?phpphh 
-
-php
